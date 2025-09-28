@@ -1,0 +1,53 @@
+URL - https://luckyfrogboothsocal.com/ai-portrait-booth/ 
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://luckyfrogboothsocal.com/ai-portrait-booth/#faq",
+  "url": "https://luckyfrogboothsocal.com/ai-portrait-booth/",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an AI Transform Photo Booth Rental in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lucky Frog Photo Marketing offers an AI Transform Photo Booth Rental in Orange County that uses advanced AI to convert guest portraits into stylized, on-brand looks (glam, comic, avatar, or event-themed) within seconds, delivering instant digital results perfect for sharing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the AI photo booth work at events?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At your event, Lucky Frog Photo Marketing captures DSLR-quality portraits, processes them through our curated AI models, and returns polished images on-site. Guests receive AI photos via QR code, text, or email, and you get a branded gallery—fast, secure, and attendee-friendly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the AI photo booth match our brand or event theme?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—Lucky Frog Photo Marketing builds custom AI styles, overlays, and templates to align with your color palette, logo, and theme. For corporate activations, we can also include branded microsites, lead capture, and usage rights guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do we need to provide for an AI photo booth setup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lucky Frog Photo Marketing typically needs a 10×10 ft footprint, one standard 110V outlet within 25 ft, and reliable venue Wi-Fi or a dedicated hotspot for rapid AI processing. Our team handles delivery, setup, operation, and teardown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you serve areas beyond Orange County for AI photo booth rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lucky Frog Photo Marketing serves Orange County, Los Angeles, and greater Southern California. Travel outside these areas is available—tell us your venue and we’ll confirm availability, travel fees, and timing."
+      }
+    }
+  ]
+}
+</script>
